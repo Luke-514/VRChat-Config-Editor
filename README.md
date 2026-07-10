@@ -52,7 +52,7 @@ A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してくださ
 &emsp;<img src="image/defender.jpg" width="45%" />
 <img src="image/defender_accept.png" width="45%" />  
   
-Q.&nbsp;既にconfig.jsonがある場合はどうなるの？  
+Q.&nbsp;既に設定ファイル(config.json)がある場合はどうなるの？  
 A.&nbsp;設定が追記されます  
   
 Q.&nbsp;上記いずれでも解決しない問題がある  
