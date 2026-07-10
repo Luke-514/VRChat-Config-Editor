@@ -103,4 +103,4 @@ X：@rx_luke
 # 寄付
 <a href="https://www.buymeacoffee.com/Luke514" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>  
 or  
-[Booth](https://luke514.booth.pm/items/8340211)
+[Booth](https://luke514.booth.pm/items/8602182)
